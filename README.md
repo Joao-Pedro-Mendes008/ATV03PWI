@@ -23,7 +23,5 @@ Slider/carrossel de imagens (caso implementado).
 
 Para acessar o projeto, clique no link abaixo
 
-```bash
   https://atv-03-pwi.vercel.app/
-```
 
